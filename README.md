@@ -1,4 +1,4 @@
-:sparkles: # Seasonal Use Case for August 2021 MPAG :sparkles:
+#:sparkles: Seasonal Use Case for August 2021 MPAG :sparkles:
 
 Modelling seasonal and routine immunisation stratergies for RTS,S vaccination in areas of seasonal malaria transmission 
 
