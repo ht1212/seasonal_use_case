@@ -1,0 +1,16 @@
+irs_coverage	.8
+irs_frequency	1
+irs_max_rounds	10000
+irs_target	0
+irs_offset	0
+irs_offset_absolute	1
+irs_start	0
+irs_half_life	.5
+irs_ellie 1
+irs_decay_mort1     2.002188
+irs_decay_mort2     -0.0138131
+irs_decay_succ1     -2.531414
+irs_decay_succ2    0.01160972
+irs_decay_det1      -2.652176
+irs_decay_det2       -0.0138131
+irs_k0              0.699

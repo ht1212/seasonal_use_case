@@ -1,0 +1,15 @@
+,run,seasonality,increment_cases,increment_deaths,raw_additional_cases
+1,epi_smc,highly_seasonal,0.186538579,0.22784462,30935.75
+2,epi_smc,seasonal,0.263287655,0.351119983,31482.125
+3,srtss_4_dose_original_smc,highly_seasonal,0.259050488,0.323092399,43271.125
+4,srtss_4_dose_original_smc,seasonal,0.356081626,0.459700725,42452.5
+5,srtss_4_dose_param_mod_smc,highly_seasonal,0.359172398,0.432094721,60120.75
+6,srtss_4_dose_param_mod_smc,seasonal,0.496849164,0.623672955,59301.125
+7,srtss_4_dose_update_smc,highly_seasonal,0.325653741,0.390266495,54264.25
+8,srtss_4_dose_update_smc,seasonal,0.446571056,0.556961322,53311.625
+9,srtss_5_dose_original_smc,highly_seasonal,0.296620916,0.356751857,49505.875
+10,srtss_5_dose_original_smc,seasonal,0.407401416,0.511474339,48614.75
+11,srtss_5_dose_param_mod_smc,highly_seasonal,0.405834194,0.486178587,67759.25
+12,srtss_5_dose_param_mod_smc,seasonal,0.560898434,0.701466254,67170.875
+13,srtss_5_dose_update_smc,highly_seasonal,0.376576814,0.446858903,62786.5
+14,srtss_5_dose_update_smc,seasonal,0.516247836,0.6291194,61717.25
